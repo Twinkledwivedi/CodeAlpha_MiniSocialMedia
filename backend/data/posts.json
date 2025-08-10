@@ -1,0 +1,120 @@
+[
+  {
+    "id": "901dce65-4eec-406a-9460-4afec1774139",
+    "userId": "488ccd81-1be2-461f-a90b-99cd5e6ef4be",
+    "content": "HI Everyone Its a nice day today.",
+    "image": "1754818132408-902936927.jpeg",
+    "likes": ["3652806a-7aed-4922-9189-8a998f69f239", "a1b2c3d4-e5f6-7890-abcd-ef1234567890"],
+    "comments": [
+      {
+        "id": "comment-1",
+        "userId": "3652806a-7aed-4922-9189-8a998f69f239",
+        "content": "Beautiful day indeed! ☀️",
+        "createdAt": "2025-08-10T10:30:00.000Z"
+      }
+    ],
+    "createdAt": "2025-08-10T09:28:52.411Z",
+    "updatedAt": "2025-08-10T09:28:52.411Z"
+  },
+  {
+    "id": "2f4a6b8c-1e9d-4c7f-9a2b-5c8d3e7f9a1b",
+    "userId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "content": "Just deployed my new full-stack app! Built with React, Node.js, and MongoDB. The feeling of seeing your code come to life is unmatched 🚀",
+    "image": null,
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be", "3652806a-7aed-4922-9189-8a998f69f239"],
+    "comments": [
+      {
+        "id": "comment-3",
+        "userId": "488ccd81-1be2-461f-a90b-99cd5e6ef4be",
+        "content": "This is amazing! Can you share the GitHub repo?",
+        "createdAt": "2025-08-10T14:20:00.000Z"
+      }
+    ],
+    "createdAt": "2025-08-10T14:00:00.000Z",
+    "updatedAt": "2025-08-10T14:00:00.000Z"
+  },
+  {
+    "id": "7b9c2d5e-8f3a-4b6e-9c1d-7e8f2a5b7c9d",
+    "userId": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+    "content": "Just returned from an incredible trip to Santorini! The sunset views were absolutely breathtaking 🌅",
+    "image": "santorini-sunset.jpg",
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be", "a1b2c3d4-e5f6-7890-abcd-ef1234567890"],
+    "comments": [
+      {
+        "id": "comment-6",
+        "userId": "488ccd81-1be2-461f-a90b-99cd5e6ef4be",
+        "content": "OMG Santorini is on my bucket list! 😍",
+        "createdAt": "2025-08-10T16:30:00.000Z"
+      }
+    ],
+    "createdAt": "2025-08-10T16:15:00.000Z",
+    "updatedAt": "2025-08-10T16:15:00.000Z"
+  },
+  {
+    "id": "4e7f1a3b-9c2d-4e8f-8a3b-6c9d4e8f2a5b",
+    "userId": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+    "content": "Random thought: Why do the best ideas always come in the shower? 🤔 Just solved a bug I've been stuck on for 2 days!",
+    "image": null,
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be"],
+    "comments": [
+      {
+        "id": "comment-8",
+        "userId": "3652806a-7aed-4922-9189-8a998f69f239",
+        "content": "Shower thoughts are scientifically proven to boost creativity! 🚿🧠",
+        "createdAt": "2025-08-11T13:00:00.000Z"
+      }
+    ],
+    "createdAt": "2025-08-11T12:45:00.000Z",
+    "updatedAt": "2025-08-11T12:45:00.000Z"
+  },
+  {
+    "id": "1a4e7f2b-8c3d-4f9a-9b2e-7c5d8e9f3a5b",
+    "userId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "content": "Coffee + Code = Perfect Monday morning! Who else is starting their week with some debugging? ☕💻",
+    "image": null,
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be"],
+    "comments": [
+      {
+        "id": "comment-10",
+        "userId": "488ccd81-1be2-461f-a90b-99cd5e6ef4be",
+        "content": "Debugging is my cardio! 😂",
+        "createdAt": "2025-08-11T08:30:00.000Z"
+      }
+    ],
+    "createdAt": "2025-08-11T08:00:00.000Z",
+    "updatedAt": "2025-08-11T08:00:00.000Z"
+  },
+  {
+    "id": "9f3e8a2c-7b5d-4e9f-9a3c-6f9d4e7c8a3b",
+    "userId": "randomUser123",
+    "username": "CodeNinja",
+    "content": "Just discovered a new VS Code extension that changed my life! Auto-rename tag is a game changer for HTML/CSS 🎯",
+    "image": null,
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be"],
+    "comments": [],
+    "createdAt": "2025-08-11T13:30:00.000Z",
+    "updatedAt": "2025-08-11T13:30:00.000Z"
+  },
+  {
+    "id": "6e8f4a9c-5b7e-4f9a-9c3d-8a7e5f9c4a2b",
+    "userId": "randomUser456",
+    "username": "DesignDiva",
+    "content": "Working on a new color palette for my portfolio site. Loving these earthy tones with a pop of coral! 🎨",
+    "image": "color-palette.jpg",
+    "likes": ["3652806a-7aed-4922-9189-8a998f69f239"],
+    "comments": [],
+    "createdAt": "2025-08-11T14:45:00.000Z",
+    "updatedAt": "2025-08-11T14:45:00.000Z"
+  },
+  {
+    "id": "7c9e3a5f-8b4d-4e9f-9a2c-7f8e4c6b9a3d",
+    "userId": "randomUser789",
+    "username": "FitnessFreak",
+    "content": "Morning workout done! 5K run + yoga session = feeling amazing 💪 Nothing beats that post-workout endorphin rush!",
+    "image": "workout-selfie.jpg",
+    "likes": ["488ccd81-1be2-461f-a90b-99cd5e6ef4be", "a1b2c3d4-e5f6-7890-abcd-ef1234567890"],
+    "comments": [],
+    "createdAt": "2025-08-11T15:30:00.000Z",
+    "updatedAt": "2025-08-11T15:30:00.000Z"
+  }
+]

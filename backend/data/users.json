@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e41e16d2-f992-47c6-8d56-30655b5f947f",
+    "username": "Twinkle",
+    "email": "twinkledwivedi504@gmail.com",
+    "password": "$2b$10$Wdj.Yto6MVXovZxUKaD9A.VgPboj8xU5NTokcjU4oMVRtIIeQT20u",
+    "profilePicture": null,
+    "bio": "",
+    "followers": [],
+    "following": [],
+    "createdAt": "2025-08-10T13:45:43.240Z"
+  },
+  {
+    "id": "f7b3d30c-fcf2-4789-9fd3-8946b95a4e20",
+    "username": "Twinkle Dwivedi",
+    "email": "Twinkledwivedi504@gmail.com",
+    "password": "$2b$10$tawZ4lIWhmR4GhnB1IjEpetpfSnJ5IvsfwH7FtnegOlxtlRbrKWmS",
+    "profilePicture": null,
+    "bio": "",
+    "followers": [],
+    "following": [],
+    "createdAt": "2025-08-10T14:17:15.180Z"
+  }
+]
